@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/XX-Q?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-8C1D40?style=flat-square&logo=github&logoColor=white" alt="Explore projects" /></a>
   <img src="https://img.shields.io/badge/Location-Beijing-5B6573?style=flat-square&logo=googlemaps&logoColor=white" alt="Beijing" />
-  <img src="https://img.shields.io/badge/Open%20to-Research%20Collaboration-CB1B45?style=flat-square" alt="Open to research collaboration" />
+  <img src="https://img.shields.io/badge/Focus-Research%20%26%20Open%20Source-CB1B45?style=flat-square" alt="Research and open source" />
 </p>
 
 ## Hi, I'm XQ 👋
@@ -62,7 +62,7 @@ A Chinese idiom cloze project built on RoBERTa, comparing classification and con
 
 - 🔬 Exploring efficient and privacy-aware learning on distributed graph data
 - 📚 Reading about trustworthy machine learning and scalable representation learning
-- 🤝 Open to research discussions, reproducibility efforts, and open-source collaboration
+- 🧭 Documenting research ideas, reproducibility notes, and open-source work
 
 ---
 
