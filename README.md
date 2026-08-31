@@ -25,26 +25,6 @@ I am a PhD student at **Peking University**, interested in building practical an
 | Privacy-Preserving ML | Useful learning systems with responsible data boundaries |
 | Natural Language Processing | Representation learning for Chinese language understanding |
 
-## Selected projects
-
-### [FedNetSMF](https://github.com/XX-Q/FedNetSMF)
-
-An experimental implementation of federated network embedding with sparse matrix factorization, including multi-party data partitioning and evaluation utilities.
-
-`Python` · `PyTorch` · `NetworkX` · `Graph Learning`
-
-### [FedSVD](https://github.com/XX-Q/FedSVD)
-
-An implementation exploring singular value decomposition in a federated setting.
-
-`Python` · `Federated Learning` · `Matrix Factorization`
-
-### [CL-Bert](https://github.com/XX-Q/CL-Bert)
-
-A Chinese idiom cloze project built on RoBERTa, comparing classification and contrastive-learning approaches.
-
-`PyTorch` · `BERT` · `Contrastive Learning` · `Chinese NLP`
-
 ## Toolbox
 
 <p>
